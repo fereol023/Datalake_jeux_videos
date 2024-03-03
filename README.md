@@ -2,7 +2,7 @@
 
 Projet de création d'un datatlake sur le thème des jeux vidéos.<br>
 
-![Workflow](Workflow datalake VGSALES.png)
+![Workflow](.Workflow datalake VGSALES.png)
 
 * Phase 1 : Récupérer une liste de jeux (dataset de jeux avec dates de sorties et évaluation || ``Kaggle``)
 * Phase 2 : Collecter en batch les avis twitter sur la base des noms des jeux : ``API Twitter``.
